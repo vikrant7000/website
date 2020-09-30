@@ -26,7 +26,7 @@ A mini audio connector used in the LED controller and possibly other builds.
 
 A mini right angle audio connector used in the LED controller and possibly other builds.
 
-#### 5 volt 2.5 amp micro USD power supply
+#### 5 volt 2.5 amp micro USB power supply
 
 A power supply that will provide ample power for a Raspberry Pi.
 
