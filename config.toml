@@ -17,11 +17,11 @@ Description = "reef-pi - An opensource reef tank controller based on Raspberry P
 [[menu.main]]
   name = "guides"
   identifier = "guides"
-  weight = 100
+  weight = 50
   url = "/guides/"
 
 [[menu.main]]
   name = "additional documentation"
   identifier = "additional documentation"
-  weight = 200
+  weight = 100
   url = "/additional-documentation/"
